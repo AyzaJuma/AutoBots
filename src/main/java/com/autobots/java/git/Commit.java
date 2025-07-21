@@ -1,4 +1,4 @@
-package com.autobots.git;
+package com.autobots.java.git;
 
 public class Commit {
 }

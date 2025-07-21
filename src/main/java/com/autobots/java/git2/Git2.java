@@ -1,4 +1,4 @@
-package com.autobots.git2;
+package com.autobots.java.git2;
 
 public class Git2 {
 }

@@ -1,4 +1,4 @@
-package com.autobots.bankApp;
+package com.autobots.java.bankApp;
 
 public class CreditAccount extends BankAccount{ // Наследует BankAccount.
 
