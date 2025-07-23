@@ -1,7 +1,7 @@
-package com.autobots.java.bankApp;
+package com.autobots.java;
 
 public class DemoVersion8 {
     public static void main(String[] args) {
-dnajndffdnqdfjdnj;n;
+        System.out.println("hi");
     }
 }
